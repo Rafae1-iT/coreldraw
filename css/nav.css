@@ -1,0 +1,55 @@
+nav {
+    height: 80px;
+    background-image: url(../img/navbar/Rectangle\ 161123848.png);
+    background-size: cover;
+    background-position: center;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+    color: white;
+}
+
+.registration { 
+    height: 50px;
+    width: 160px;
+    border-radius: 40px;
+    background: rgba(158, 11, 55, 0.702); 
+    box-shadow: 4px 4px 6px 0px #FFFFFF80 inset;
+}
+
+.abel {
+    font-family: "Abel", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+}
+
+.gotham-Pro {
+    font-size: 17px;
+    font-family: "Gotham Pro", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.nav-flex {
+    display: flex;
+}
+
+
+.navbar-nav {
+    width: 70%;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+
+.margin-a {
+    margin-right: 50px;
+}
+
+.margin-a-2 {
+    margin-right: 30px;
+}

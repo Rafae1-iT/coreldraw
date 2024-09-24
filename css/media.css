@@ -1,0 +1,244 @@
+@media (max-width: 1440px) {
+    .steps-content {
+        display: block;
+        width: 1200px;
+    }
+    .answers {
+        display: flex;
+        margin-top: 50px;
+        justify-content: space-around;
+    }
+    .text-bottom-step-1 {
+        width: 1180px;
+        margin: 0 auto;
+        margin-top: 45px;
+    }
+    .text-bottom-step-3 {
+        width: 1180px;
+        margin: 0 auto;
+        margin-top: 45px;
+    }
+    .text-bottom-step-5 {
+        width: 1180px;
+    }
+    .img-teeth {
+        width: 90%;
+        margin: 0 auto;
+    }
+    .choice {
+        margin: 0 auto;
+    }
+    .step-1 {
+        margin: 0 auto;
+        margin-top: 60px;
+    }
+    .step-2 {
+        margin: 0 auto;
+        margin-top: 50px;
+    }
+    .step-3 {
+        margin: 0 auto;
+        margin-top: 50px;
+    }
+    .step-4 {
+        margin: 0 auto;
+        margin-top: 70px;
+    }
+    .step-5 {
+        margin: 0 auto;
+        margin-top: 50px;
+    }
+}
+
+@media (max-width: 1200px)  {
+    .steps-content {
+        width: 910px;
+    }
+    .choice {
+        width: 900px;
+    }
+    .choice {
+        font-size: 18px;
+    }
+    .step {
+        width: 900px;
+        font-size: 18px;
+    }
+    .dn {
+        display: none;
+    }
+    .bg-img {
+        width: 200px;
+    }
+    .text-bottom-step-1 {
+        width: 900px;
+        font-size: 18px;
+    }
+    .text-bottom-step-3 {
+        width: 900px;
+        font-size: 18px;
+    }
+    .text-bottom-step-5 {
+        width: 900px;
+        font-size: 18px;
+    }
+}
+
+@media (max-width: 930px)  {
+    .steps-content {
+        width: 670px;
+    }
+    .choice {
+        width: 650px;
+    }
+    .choice-text {
+        font-size: 14px;
+        width: 90%;
+        margin: 0 auto;
+    }
+    .step {
+        width: 650px;
+        font-size: 14px;
+    }
+    .bg-img {
+        width: 140px;
+    }
+    .bg-img img {
+        width: 100px;
+        height: 36px;
+        margin-top: 13px;
+    }
+    .bg-img-pdf img {
+        width: 48px;
+        height: 48px;
+        margin-top: 7px;
+    }
+    .products90 {
+        font-size: 14px;
+    }
+    .text-bottom-step-1 {
+        width: 650px;
+        font-size: 14px;
+    }
+    .text-bottom-step-3 {
+        width: 650px;
+        font-size: 14px;
+    }
+    .text-bottom-step-5 {
+        width: 650px;
+        font-size: 14px;
+    }
+    .answers {
+        width: 650px;
+        margin: 0 auto;
+        margin-top: 50px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .main {
+        font-size: 40px;
+    }
+
+    .scroll-img-1 img {
+        width: 241px;
+        height: 168px;
+    }
+    .scroll-img-2 img {
+        width: 241px;
+        height: 168px;
+    }
+}
+
+@media (max-width: 670px)  {
+    .steps-content {
+        width: 460px;
+    }
+    .choice {
+        width: 90%;
+    }
+    .step {
+        width: 450px;
+    }
+    .text-bottom-step-1 {
+        width: 90%;
+    }
+    .text-bottom-step-3 {
+        width: 90%;
+    }
+    .text-bottom-step-5 {
+        width: 90%;
+    }
+    .answers {
+        width: 450px;
+    }
+    .answer {
+        margin-left: 5px;
+    }
+}
+
+@media (max-width: 460px)  {
+    .steps-content {
+        width: 360px;
+    }
+    .step {
+        width: 360px;
+    }
+    .answers {
+        width: 360px;
+    }
+    .main {
+        font-size: 36px;
+    }
+    .scroll-img-1 img {
+        width: 144px;
+        height: 100px;
+    }
+    .scroll-img-2 img {
+        width: 144px;
+        height: 100px;
+    }
+}
+@media (max-width: 370px)  {
+    .steps-content {
+        width: 280px;
+    }
+    .step {
+        width: 270px;
+    }
+    .answers {
+        width: 270px;
+    }
+    .main {
+        font-size: 36px;
+    }
+    .choice-text {
+        font-size: 12px;
+    }
+    .step {
+        font-size: 12px;
+    }
+    .products90 {
+        font-size: 12px;
+    }
+    .text-bottom-step-1 {
+        font-size: 12px;
+    }
+    .text-bottom-step-3 {
+        font-size: 12px;
+    }
+    .text-bottom-step-5 {
+        font-size: 12px;
+    }
+    .step-number img {
+        width: 45px;
+    }
+    .error-img-left img {
+        width: 200px;
+    }
+    .error-img-right img {
+        width: 200px;
+    }
+    .main {
+        font-size: 28px;
+    }
+}

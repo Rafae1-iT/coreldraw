@@ -1,0 +1,231 @@
+.steps-container {
+    width: 100%;
+    background-color: #171422;
+    padding-top: 100px;
+    padding-bottom: 85px;
+
+}
+.steps-content {
+    width: 1420px;
+    display: flex;
+    margin: 0 auto;
+}
+
+.steps {
+    color: white;
+    font-size: 22px;
+    font-family: "Gotham Pro", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.choice {
+    width: 1180px;
+    height: 152px;
+    display: flex;
+    align-items: center;
+    background: linear-gradient(90.95deg, #FFA462 0%, #B45350 21.79%, #8A2645 48.93%, #291725 84.55%);
+    border-radius: 30px;
+}
+.choice-text {
+    margin: 0 auto;
+}
+
+.answer {
+    margin-left: 20px;
+    width: 220px;
+    height: 220px;
+    color: white;
+    cursor: pointer;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding-bottom: 24px;
+    margin-bottom: 25px;
+}
+
+.anwer-1 {
+    background-image: url(../img/steps/answer-1.png);
+}
+.anwer-2 {
+    background-image: url(../img/steps/answer-2.png);
+}
+.anwer-3 {
+    background-image: url(../img/steps/answer-3.png);
+}
+.anwer-4 {
+    background-image: url(../img/steps/answer-2.png);
+}
+
+
+.answer-container {
+    display: flex;
+    justify-content: space-between;
+    width: 208px;
+    height: 36px;
+    line-height: 13px;
+    border: 1px solid #FFFFFF;
+    border-radius: 24px;
+    margin: 0 auto;
+    background: rgba(23, 20, 34, 0.90);  ;
+
+}
+
+.answer-text {
+    padding-left: 15px;
+}
+.answer-text-1 {
+    font-size: 9px;
+    font-family: "Gotham Pro", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.answer-text-2 {
+    font-size: 13px;
+    font-family: "Gotham Pro", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+.answer-arrow {
+    width: 36px;
+    height: 36px;
+    border-radius: 24px;
+    background: linear-gradient(91.25deg, #DF5017 -4.25%, #F9CB74 108.11%);
+    box-shadow: 1.91px 1.91px 2.87px 0px #FFFFFF80 inset;
+    box-shadow: 1.91px 1.91px 9.57px 0px #DF5017;
+}
+.arrow {
+    width: 15px;
+    margin: 0 auto;
+    height: 36px;
+}
+
+.step {
+    width: 1180px;
+    display: flex;
+    font-size: 22px;
+    font-family: "Gotham Pro", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.margin-0 {
+    margin: 0 auto;
+}
+.step-1 {
+    margin-top: 60px;
+}
+.step-content {
+    margin-left: 60px;
+}
+
+.step-img {
+    width: 100%;
+    margin-top: 30px;
+}
+
+.bg-img {
+    width: 268px;
+    height: 62px;
+    background-color: #fff;
+    border-radius: 12px;
+    margin-top: 20px;
+}
+
+.bg-img img {
+    width: 121px;
+    height: 40px;
+    margin-top: 11px;
+}
+
+.bg-img-pdf img {
+    width: 54px;
+    height: 54px;
+    margin-top: 4px;
+}
+
+.bg-img-premiere img {
+    width: 160px;
+    height: 40px;
+}
+
+.bg-img-photoshop img {
+    width: 135px;
+    height: 40px;
+}
+
+.bg-img-indesign img {
+    width: 135px;
+    height: 40px;
+}
+
+.bg-img-effects img {
+    width: 145px;
+    height: 40px;
+}
+
+.products90 {
+    font-size: 18px;
+    padding-top: 20px;
+}
+
+.text-bottom-step-1 {
+    margin-top: 45px;
+    font-size: 22px;
+}
+
+.step-2 {
+    margin-top: 50px;
+}
+
+.step-text-2 {
+    padding-top: 30px;
+}
+
+.step-3 {
+    margin-top: 50px;
+}
+
+.error-img {
+    margin-top: 35px;
+}
+
+.error-img-left {
+    padding-right: 45px;
+}
+
+.error-img-right {
+    padding-left: 45px;
+}
+
+.text-bottom-step-3 {
+    margin-top: 45px;
+    font-size: 22px;
+}
+
+.img-teeth {
+    width: 100%;
+}
+
+.img-teeth img {
+    width: 100%;
+}
+
+.step-4 {
+    margin-top: 70px;
+}
+.step-5 {
+    margin-top: 50px;
+}
+
+.text-bottom-step-5 {
+    width: 1370px;
+    margin: 0 auto;
+    margin-top: 100px;
+    font-size: 22px;
+    font-family: "Gotham Pro", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+}

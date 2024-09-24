@@ -1,0 +1,63 @@
+.scroll-img-1 { 
+    width: 100%;  
+    overflow: hidden; 
+    display: flex; 
+} 
+ 
+.scroll-img-1 div { 
+    display: flex; 
+    width: calc(100% * 2);
+    animation: scroll-img-1 35s linear infinite; 
+} 
+
+.scroll-img-1 span { 
+    display: flex; 
+} 
+
+.scroll-img-1 img { 
+    width: 402px;  
+    height: 280px;  
+    margin-top: 90px;  
+    padding-right: 20px;  
+} 
+
+@keyframes scroll-img-1 { 
+    0% { 
+        transform: translateX(0); 
+    } 
+    100% { 
+        transform: translateX(-50%);
+    } 
+}
+
+.scroll-img-2 { 
+    width: 100%;  
+    overflow: hidden; 
+    display: flex; 
+} 
+ 
+.scroll-img-2 div { 
+    display: flex; 
+    width: calc(100% * 2);
+    animation: scroll-img-1 30s linear infinite; 
+} 
+
+.scroll-img-2 span { 
+    display: flex; 
+} 
+
+.scroll-img-2 img { 
+    width: 402px;  
+    height: 280px;  
+    margin-top: 20px;  
+    padding-right: 20px;  
+} 
+
+@keyframes scroll-img-2 { 
+    0% { 
+        transform: translateX(0%); 
+    } 
+    100% { 
+        transform: translateX(-50%);
+    } 
+}
