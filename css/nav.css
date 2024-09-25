@@ -53,3 +53,6 @@ nav {
 .margin-a-2 {
     margin-right: 30px;
 }
+.nav-mobile {
+    display: none;
+}
